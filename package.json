@@ -1,0 +1,14 @@
+{
+  "name": "functional_programming_JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryanrwei/functional_programming_JS.git",
+  "author": "Ryan <ra1996315@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "functional-javascript-workshop": "^1.0.6"
+  },
+  "scripts": {
+    "test": "functional-javascript-workshop"
+  }
+}
